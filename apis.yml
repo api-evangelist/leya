@@ -1,0 +1,65 @@
+aid: leya
+name: Leya
+description: >-
+  Leya was a Stockholm-based legal AI startup founded in 2023 by Max
+  Junestrand (CEO) and Sigge Labor, building an AI-powered workspace for
+  law firms and legal professionals that automated repetitive document
+  review, drafting, and legal research tasks across public sources and a
+  firm's own private data. The company went through Y Combinator
+  (Winter 2024 batch), partnered with leading Nordic firms such as
+  Mannheimer Swartling beginning May 2023, raised a $10.5M seed (May
+  2024) and a $25M Series A (July 2024), and was named one of
+  Stockholm's hottest startups by WIRED in 2024. Leya offered a
+  collaborative legal AI workspace with tabular review (large-scale
+  parallel document analysis) and was rolled out to 200+ law firms
+  across 15+ countries under the Leya brand. On 19 February 2025 the
+  company fully rebranded to Legora, retaining the same founders,
+  Stockholm headquarters, and product, while expanding with agentic
+  research tools and a Microsoft Word add-in. The Leya brand and
+  product line have been entirely absorbed into Legora; there is no
+  separate ongoing Leya product, no public developer API, no SDK, and
+  no GitHub presence under the Leya name. This entry preserves the
+  Leya identity for historical reference; see the legora entry for the
+  ongoing company profile.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+x-status: rebranded
+x-rebranded-to: legora
+x-rebrand-date: '2025-02-19'
+tags:
+  - Legal AI
+  - LegalTech
+  - Law Firms
+  - Document Review
+  - Legal Research
+  - Contract Analysis
+  - Generative AI
+  - AI Workspace
+  - Stockholm
+  - Y Combinator
+  - Rebranded
+url: https://raw.githubusercontent.com/api-evangelist/leya/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: SuccessorWebsite
+    url: https://legora.com
+  - type: RebrandAnnouncement
+    url: https://legora.com/newsroom/leya-is-now-legora
+  - type: PressRelease
+    url: https://www.businesswire.com/news/home/20250219690496/en/Top-Legal-AI-Platform-Leya-Rebrands-as-Legora-Unveils-Agentic-Research-and-Product-Upgrades
+  - type: YCombinator
+    url: https://www.ycombinator.com/companies/leya
+  - type: ArtificialLawyer
+    url: https://www.artificiallawyer.com/2025/02/19/legal-genai-pioneer-leya-rebrands-to-legora/
+  - type: Law360Coverage
+    url: https://www.law360.com/pulse/articles/2299883/swedish-legal-ai-co-leya-rebrands-to-legora
+  - type: SuccessorProfile
+    url: https://raw.githubusercontent.com/api-evangelist/legora/refs/heads/main/apis.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
