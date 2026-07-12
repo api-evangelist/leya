@@ -52,6 +52,8 @@ common:
     url: https://legora.com/newsroom/leya-is-now-legora
   - type: PressRelease
     url: https://www.businesswire.com/news/home/20250219690496/en/Top-Legal-AI-Platform-Leya-Rebrands-as-Legora-Unveils-Agentic-Research-and-Product-Upgrades
+  - type: Blog
+    url: https://legora.com/blog
   - type: YCombinator
     url: https://www.ycombinator.com/companies/leya
   - type: ArtificialLawyer
