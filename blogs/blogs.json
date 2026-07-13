@@ -1,0 +1,18 @@
+{
+  "repo": "leya",
+  "feeds": [
+    {
+      "source": "https://legora.com/blog",
+      "feed_url": "https://legora.com/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.businesswire.com/news/home/20250219690496/en/Top-Legal-AI-Platform-Leya-Rebrands-as-Legora-Unveils-Agentic-Research-and-Product-Upgrades",
+      "error": "TimeoutError"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 13
+}
