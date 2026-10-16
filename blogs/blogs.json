@@ -2,10 +2,6 @@
   "repo": "leya",
   "feeds": [
     {
-      "source": "https://www.businesswire.com/news/home/20250219690496/en/Top-Legal-AI-Platform-Leya-Rebrands-as-Legora-Unveils-Agentic-Research-and-Product-Upgrades",
-      "error": "TimeoutError"
-    },
-    {
       "source": "https://legora.com/blog",
       "feed_url": "https://legora.com/blog",
       "title": "",
@@ -13,7 +9,7 @@
       "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 13,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
