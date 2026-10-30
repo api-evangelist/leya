@@ -1,4 +1,4 @@
-# leya
+# Leya
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,36 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Leya — Stockholm legal AI workspace (YC W24); rebranded to Legora on 19 Feb 2025. See the `legora` entry for the ongoing company profile.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
+
+**Status:** rebranded
+
+Leya was a Stockholm-based legal AI startup founded in 2023 by Max Junestrand (CEO) and Sigge Labor, building an AI-powered workspace for law firms and legal professionals that automated repetitive document review, drafting, and legal research tasks across public sources and a firm's own private data. The company went through Y Combinator (Winter 2024 batch), partnered with leading Nordic firms such as Mannheimer Swartling beginning May 2023, raised a $10.5M seed (May 2024) and a $25M Series A (July 2024), and was named one of Stockholm's hottest startups by WIRED in 2024. Leya offered a collaborative legal AI workspace with tabular review (large-scale parallel document analysis) and was rolled out to 200+ law firms across 15+ countries under the Leya brand. On 19 February 2025 the company fully rebranded to Legora, retaining the same founders, Stockholm headquarters, and product, while expanding with agentic research tools and a Microsoft Word add-in. The Leya brand and product line have been entirely absorbed into Legora; there is no separate ongoing Leya product, no public developer API, no SDK, and no GitHub presence under the Leya name. This entry preserves the Leya identity for historical reference; see the legora entry for the ongoing company profile.
+
+**Areas:** Legal AI · Legal Tech · Law Firms · Document Review · Legal Research · Contract Analysis · Generative AI · AI Workspace · Stockholm · Y Combinator · Rebranded
+
+## Leya on APIs.io (historical record)
+
+Everything profiled for Leya is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/leya/](https://apis.io/providers/leya/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Blog](https://legora.com/blog)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Leya: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/leya/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
